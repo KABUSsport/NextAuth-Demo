@@ -2,7 +2,7 @@
 
 This is a full-stack authentication demo built with Next.js and NextAuth.js. It demonstrates how to implement email/password and GitHub OAuth login flows with Prisma and MongoDB as the database.
 
----
+
 
 ## Demo
 
