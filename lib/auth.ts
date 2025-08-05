@@ -1,21 +1,17 @@
-// lib/auth.ts
-import GitHub from 'next-auth/providers/github';
-import type { NextAuthOptions } from 'next-auth';
-import { getServerSession as getSession } from 'next-auth';
+import GitHubProvider from 'next-auth/providers/github';
+import CredentialsProvider from 'next-auth/providers/credentials';
 import NextAuth from 'next-auth';
 import { PrismaClient } from '@prisma/client';
 import { compare } from 'bcryptjs';
 
 const prisma = new PrismaClient();
 
-export const authOptions: NextAuthOptions = {
+export const authOptions = {
   providers: [
-    GitHub({
+    GitHubProvider({
       clientId: process.env.GITHUB_ID!,
       clientSecret: process.env.GITHUB_SECRET!,
     }),
-<<<<<<< Updated upstream
-=======
     CredentialsProvider({
       name: 'Credentials',
       credentials: {
@@ -47,7 +43,6 @@ export const authOptions: NextAuthOptions = {
         };
       },
     }),
->>>>>>> Stashed changes
   ],
   secret: process.env.NEXTAUTH_SECRET,
 };
