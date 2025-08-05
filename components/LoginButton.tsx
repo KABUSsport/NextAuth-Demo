@@ -12,7 +12,7 @@ export function LoginButton() {
     return (
       <div className="flex items-center gap-4">
         <p>👋 Hey, {session.user?.name}</p>
-        <button onClick={() => signOut()} className="border px-4 py-1 rounded">
+        <button onClick={() => signOut()} className="border px-4 py-1 rounded cursor-pointer">
           Sign out
         </button>
       </div>
@@ -20,7 +20,7 @@ export function LoginButton() {
   }
 
   return (
-    <button onClick={() => signIn('github')} className="border px-4 py-1 rounded">
+    <button onClick={() => signIn('github')} className="border px-4 py-1 rounded cursor-pointer">
       Sign in with GitHub
     </button>
   );
